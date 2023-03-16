@@ -19,7 +19,7 @@ My Name is Felipe Fonseca I am a Civil Engineer from [National University of Col
 
 <!--
 Landslide          |  Debris Flow
-:------------------------:|:------------------------:
+:-----:|:------------------------:
  <img src ="images/landslide.gif" width=350 height=400> | <img src ="https://www.researchgate.net/profile/Felipe-Fonseca-6/publication/332868991/figure/fig1/AS:765688356564993@1559565738493/4-Flow-like-phenomena-for-a-precipitation-of-500-years-return-period-AMVA2018.jpg" width=350 height=400  /> 
 -->
 
