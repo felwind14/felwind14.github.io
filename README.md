@@ -22,10 +22,6 @@ Landslide          |  Debris Flow
  <img src ="images/landslide.gif" width=350 height=400> | <img src ="https://www.researchgate.net/profile/Felipe-Fonseca-6/publication/332868991/figure/fig1/AS:765688356564993@1559565738493/4-Flow-like-phenomena-for-a-precipitation-of-500-years-return-period-AMVA2018.jpg" width=350 height=400  /> 
 -->
 
-![](https://media1.giphy.com/media/KYWdVhA36WuRLyiy9H/giphy.gif?cid=ecf05e47ewvgir0x2984l2ngfkod83kyjwjx5nbggylv7s94&rid=giphy.gif&ct=g)
-
-
-
  Landslide          |  Debris Flow
 :-------------------------:|:-------------------------:
  <img src ="images/landslide.gif" width=350 height=400> | <img src ="images/Flowlike500.png" width=350 height=400  /> 
